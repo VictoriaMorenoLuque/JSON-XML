@@ -1,0 +1,110 @@
+{
+  "supermercados": {
+    "supermercado": [{
+      "id": 1,
+      "nombre": "Supermercado 1",
+      "dirección": "Dirección 1",
+      "geolocalización": "Geolocalización 1",
+      "productos": {
+        "producto": [{
+            "id": 1,
+            "nombre": "Producto 1",
+            "precio": 1,
+            "oferta": false,
+            "periodoVigencia": null,
+            "unidades": 10,
+            "medida": "Medida 1"
+          },
+          {
+            "id": 2,
+            "nombre": "Producto 2",
+            "precio": 2,
+            "oferta": true,
+            "periodoVigencia": "01/01/2030",
+            "unidades": 100,
+            "medida": "Medida 2"
+          },
+          {
+            "id": 3,
+            "nombre": "Producto 3",
+            "precio": 3,
+            "oferta": false,
+            "periodoVigencia": null,
+            "unidades": 1000,
+            "medida": "Medida 3"
+          }
+        ]
+      }
+    }, {
+      "id": 2,
+      "nombre": "Supermercado 2",
+      "dirección": "Dirección 2",
+      "geolocalización": "Geolocalización 2",
+      "productos": {
+        "producto": [{
+            "id": 1,
+            "nombre": "Producto 1",
+            "precio": 1,
+            "oferta": false,
+            "periodoVigencia": null,
+            "unidades": 20,
+            "medida": "Medida 1"
+          },
+          {
+            "id": 2,
+            "nombre": "Producto 2",
+            "precio": 2,
+            "oferta": true,
+            "periodoVigencia": "01/01/2030",
+            "unidades": 200,
+            "medida": "Medida 2"
+          },
+          {
+            "id": 3,
+            "nombre": "Producto 3",
+            "precio": 3,
+            "oferta": false,
+            "periodoVigencia": null,
+            "unidades": 2000,
+            "medida": "Medida 3"
+          }
+        ]
+      }
+    }, {
+      "id": 3,
+      "nombre": "Supermercado 3",
+      "dirección": "Dirección 3",
+      "geolocalización": "Geolocalización 3",
+      "productos": {
+        "producto": [{
+            "id": 1,
+            "nombre": "Producto 1",
+            "precio": 1,
+            "oferta": false,
+            "periodoVigencia": null,
+            "unidades": 30,
+            "medida": "Medida 1"
+          },
+          {
+            "id": 2,
+            "nombre": "Producto 2",
+            "precio": 2,
+            "oferta": true,
+            "periodoVigencia": "01/01/2030",
+            "unidades": 300,
+            "medida": "Medida 2"
+          },
+          {
+            "id": 3,
+            "nombre": "Producto 3",
+            "precio": 3,
+            "oferta": false,
+            "periodoVigencia": null,
+            "unidades": 3000,
+            "medida": "Medida 1"
+          }
+        ]
+      }
+    }]
+  }
+}
